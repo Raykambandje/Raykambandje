@@ -63,35 +63,9 @@
 
 ---
 
-### 📌 Projets en vedette / Featured Projects
 
-<div align="center">
 
-| Projet | Description | Stack | Lien |
-| :--- | :--- | :--- | :---: |
-| **📂 Portfolios** | Collection de modèles et présentations de portfolios web. | `CSS3` `HTML5` | [Voir le repo](https://github.com/Raykambandje/Portfolios) |
-| **📝 Forms** | Modèles de formulaires interactifs et modernes avec styles personnalisés. | `CSS3` `HTML5` | [Voir le repo](https://github.com/Raykambandje/Forms) |
-| **🌐 portfolio-** | Site vitrine personnel / portfolio intégrant les fondamentaux du web. | `HTML5` `CSS3` | [Voir le repo](https://github.com/Raykambandje/portfolio-) |
 
-</div>
-
----
-
-### 📊 Statistiques GitHub / GitHub Stats
-
-<div align="center">
-
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Raykambandje&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=00F2FE&text_color=9ACEFF&bg_color=0D1117" alt="Raykambandje's GitHub Stats" />
-  &nbsp;
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raykambandje&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE&text_color=9ACEFF&bg_color=0D1117" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raykambandje&theme=tokyonight&hide_border=true&background=0D1117&fire=00F2FE&ring=00F2FE&currStreakNum=00F2FE" alt="GitHub Streak" />
-</div>
 
 ---
 
