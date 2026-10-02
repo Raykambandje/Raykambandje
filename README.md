@@ -28,7 +28,8 @@ Je suis **développeur full-stack** à Kolwezi, en République démocratique du 
 Je crée des **applications web et desktop** utiles au quotidien et adaptées au contexte local : réservation d'hébergements, gestion universitaire, organisation du travail…
 
 - 🔭 **En ce moment** : je développe **Campus Flow**, une plateforme de gestion universitaire.
-- 🌱 **J'apprends** : Python et C#.
+- 🖥️ **Desktop** : je développe des applications Windows en C# avec WinForms.
+- 🌱 **J'apprends** : Python.
 - 💡 **Ce qui m'intéresse** : développement web et desktop, UI/UX, architecture logicielle.
 - 🤝 **Ouvert à** : collaborations sur des projets web ou desktop, échanges techniques, missions freelance.
 - 🏢 **Projets d'entreprise** : sur mon second compte, [@ray-kambandje](https://github.com/ray-kambandje).
@@ -59,7 +60,8 @@ Je crée des **applications web et desktop** utiles au quotidien et adaptées au
 | **Back-end** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |
 | **Bases de données** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
-| **En apprentissage** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
+| **Desktop** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white) ![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
+| **En apprentissage** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
 </div>
 
