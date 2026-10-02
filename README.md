@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=120&section=header" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=70&lines=Bonjour%2C+je+suis+Ray-kambandje+%F0%9F%90%A7;D%C3%A9veloppeur+Full-Stack+%F0%9F%92%BB;PHP+%C2%B7+JavaScript+%C2%B7+TypeScript+%C2%B7+React;Bas%C3%A9+%C3%A0+Kolwezi%2C+RDC+%F0%9F%87%A8%F0%9F%87%A9" alt="Bonjour, je suis Ray-kambandje" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&height=70&lines=Bonjour%2C+je+suis+Ray-kambandje+%F0%9F%90%A7;D%C3%A9veloppeur+Full-Stack+%F0%9F%92%BB;Applications+Web+%26+Desktop+%F0%9F%96%A5%EF%B8%8F;PHP+%C2%B7+JavaScript+%C2%B7+TypeScript+%C2%B7+React;Bas%C3%A9+%C3%A0+Kolwezi%2C+RDC+%F0%9F%87%A8%F0%9F%87%A9" alt="Bonjour, je suis Ray-kambandje" />
   </a>
 
   <p>
@@ -25,12 +25,12 @@
 ### 💫 À propos de moi
 
 Je suis **développeur full-stack** à Kolwezi, en République démocratique du Congo 🇨🇩.
-Je crée des applications web utiles au quotidien et adaptées au contexte local : réservation d'hébergements, gestion universitaire, organisation du travail…
+Je crée des **applications web et desktop** utiles au quotidien et adaptées au contexte local : réservation d'hébergements, gestion universitaire, organisation du travail…
 
 - 🔭 **En ce moment** : je développe **Campus Flow**, une plateforme de gestion universitaire.
 - 🌱 **J'apprends** : Python et C#.
-- 💡 **Ce qui m'intéresse** : développement web, UI/UX, architecture logicielle.
-- 🤝 **Ouvert à** : collaborations sur des projets web, échanges techniques, missions freelance.
+- 💡 **Ce qui m'intéresse** : développement web et desktop, UI/UX, architecture logicielle.
+- 🤝 **Ouvert à** : collaborations sur des projets web ou desktop, échanges techniques, missions freelance.
 - 🏢 **Projets d'entreprise** : sur mon second compte, [@ray-kambandje](https://github.com/ray-kambandje).
 
 ---
@@ -60,6 +60,23 @@ Je crée des applications web utiles au quotidien et adaptées au contexte local
 | **Bases de données** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 | **En apprentissage** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
+
+</div>
+
+---
+
+### 📊 Statistiques GitHub
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Raykambandje&show_icons=true&include_all_commits=true&locale=fr&hide=prs,issues,contribs&bg_color=0D1117&title_color=00F2FE&icon_color=4FACFE&text_color=C9D1D9&hide_border=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raykambandje&show_icons=true&include_all_commits=true&locale=fr&hide=prs,issues,contribs&bg_color=FFFFFF&title_color=0A7EA4&icon_color=4FACFE&text_color=24292F&hide_border=true" alt="Statistiques GitHub" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Raykambandje&locale=fr&background=0D1117&ring=00F2FE&fire=4FACFE&currStrkNum=00F2FE&sideNums=00F2FE&currStrkLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&hide_border=true" />
+    <img height="170" src="https://streak-stats.demolab.com?user=Raykambandje&locale=fr&background=FFFFFF&ring=4FACFE&fire=0A7EA4&currStrkNum=0A7EA4&sideNums=24292F&currStrkLabel=24292F&sideLabels=24292F&dates=57606A&stroke=D0D7DE&hide_border=true" alt="Série de contributions" />
+  </picture>
 
 </div>
 
