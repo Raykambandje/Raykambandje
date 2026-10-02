@@ -27,7 +27,6 @@
 Je suis **développeur full-stack** à Kolwezi, en République démocratique du Congo 🇨🇩.
 Je crée des **applications web et desktop** utiles au quotidien et adaptées au contexte local : réservation d'hébergements, gestion universitaire, organisation du travail…
 
-- 🔭 **En ce moment** : je développe **Campus Flow**, une plateforme de gestion universitaire.
 - 🖥️ **Desktop** : je développe des applications Windows en C# avec WinForms.
 - 🌱 **J'apprends** : Python.
 - 💡 **Ce qui m'intéresse** : développement web et desktop, UI/UX, architecture logicielle.
