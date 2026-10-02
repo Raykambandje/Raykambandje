@@ -70,8 +70,8 @@ Je crée des **applications web et desktop** utiles au quotidien et adaptées au
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Raykambandje&show_icons=true&include_all_commits=true&locale=fr&hide=prs,issues,contribs&bg_color=0D1117&title_color=00F2FE&icon_color=4FACFE&text_color=C9D1D9&hide_border=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raykambandje&show_icons=true&include_all_commits=true&locale=fr&hide=prs,issues,contribs&bg_color=FFFFFF&title_color=0A7EA4&icon_color=4FACFE&text_color=24292F&hide_border=true" alt="Statistiques GitHub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Raykambandje&show_icons=true&include_all_commits=true&locale=fr&hide=prs%2Cissues%2Ccontribs&bg_color=0D1117&title_color=00F2FE&icon_color=4FACFE&text_color=C9D1D9&hide_border=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Raykambandje&show_icons=true&include_all_commits=true&locale=fr&hide=prs%2Cissues%2Ccontribs&bg_color=FFFFFF&title_color=0A7EA4&icon_color=4FACFE&text_color=24292F&hide_border=true" alt="Statistiques GitHub" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Raykambandje&locale=fr&background=0D1117&ring=00F2FE&fire=4FACFE&currStrkNum=00F2FE&sideNums=00F2FE&currStrkLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&hide_border=true" />
